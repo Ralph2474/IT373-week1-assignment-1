@@ -1,0 +1,5 @@
+[✔] Python version: 3.12.6
+[✔] Virtual environment (venv) is active
+[✔] Django version: 5.1
+[✔] Runserver command working (http://127.0.0.1:8000/)
+[✔] Git remote repository is set (origin -> GitHub)
